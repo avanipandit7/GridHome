@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+energylog/node_modules/
+energylog/.env
+
+# React build
+energylog/build/
+
+# Java / Maven
+backend/target/
+*.class
+*.jar
+
+# H2 database files
+backend/data/
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Maven wrapper and local tools
+.tools/
+tools/
+
+# Misc
+.env
+
